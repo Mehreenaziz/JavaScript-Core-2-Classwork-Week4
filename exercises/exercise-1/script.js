@@ -21,3 +21,5 @@ const greekGods = [
   "Poseidon",
   "Zeus",
 ];
+
+console.log()
